@@ -27,4 +27,4 @@ I,  **Danila Babanov** working as Senior Ruby on Rails Engineer at OOCC. I love 
 
 Feel free to tap me on Facebook or Instagram.
 
-   [VK](https://vk.com/danilababanov "website") | [Website](https://danilababanov.ru "website") | [Website](https://oocc.ru "website") | [Website] | [Instagram](http://instagram.com/danilababanov "instagram") | [Facebook](https://www.facebook.com/danilababanov/ "fb")
+   [VK](https://vk.com/danilababanov "website") | [Website](https://danilababanov.ru "website") | [Website](https://oocc.ru "website") | [Instagram](http://instagram.com/danilababanov "instagram") | [Facebook](https://www.facebook.com/danilababanov/ "fb")
