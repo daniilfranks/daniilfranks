@@ -10,8 +10,10 @@ I,  **Danila Babanov** working as Senior Ruby on Rails Engineer at OOCC. I love 
 ⚡ Languages/Tech
 
 - Ruby
+- Ruby on Rails
 - JS
 - Node.JS
+- React
 - React Native
 - Databases: PostgresSQL, Redis, MongoDB
 
