@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello! My name is Danila. 👋
 
-I,  **Danila Babanov** working as Senior Ruby on Rails Engineer at OOCC. I love coding, it does not mean that i always focus on coding. I keep exploring things and play with new programming stuff. 
+I am a full stack developer having a very good experience in **Ruby on Rails, React and React native** . I love coding, it does not mean that i always focus on coding. I keep exploring things and play with new programming stuff. 
 
 - 🔭 I’m currently working on React & React Native & **Ruby on Rails**
 - 👯 I’m looking to collaborate on **Ruby on Rails**  
