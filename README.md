@@ -18,7 +18,7 @@ Software engineer having 11 years of experience in development, requirement engi
 
 👀 What I am working actively on 
 
-- 🌱 I’m currently learning React & React Native
+- 🌱 Develops mobile application and crm system in real estate
 
 💬 Ask me about
 
