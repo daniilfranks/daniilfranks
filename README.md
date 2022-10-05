@@ -1,11 +1,10 @@
 ### Hello! My name is Danila. 👋
 
-I am a full stack developer having a very good experience in **Ruby on Rails, React and React native** . I love coding, it does not mean that i always focus on coding. I keep exploring things and play with new programming stuff. 
+Software engineer having 11 years of experience in development, requirement engineering, and solution architect. Working as technical lead on large-scale projects. I will use my experience to provide the most feasible and custom-tailored solutions which best fit all of your business needs. I will make sure to go the extra mile to provide you the most effective solution.
 
 - 🔭 I’m currently working on React & React Native & **Ruby on Rails**
 - 👯 I’m looking to collaborate on **Ruby on Rails**  
 - 🤔 I’m looking for help with Ruby on Rails+PostgreSQL+Redis+MongoDB=>Docker
-- ⚡ Fun fact: I hate JS 
 
 ⚡ Languages/Tech
 
@@ -29,4 +28,4 @@ I am a full stack developer having a very good experience in **Ruby on Rails, Re
 
 Feel free to tap me on Facebook or Instagram.
 
-   [VK](https://vk.com/danilababanov "website") | [Website](https://danilababanov.ru "website") | [Website](https://oocc.ru "website") | [Instagram](http://instagram.com/danilababanov "instagram") | [Facebook](https://www.facebook.com/danilababanov/ "fb")
+   [VK](https://vk.com/danilababanov "website") | [Website](https://danilababanov.ru "website") | [Website](https://oocc.ru "website") | [Instagram](http://instagram.com/danilababanov "instagram") | [Facebook](https://www.facebook.com/danilababanov/ "fb") | [Linkedin](https://www.linkedin.com/in/danilababanov/ "linkedin")
