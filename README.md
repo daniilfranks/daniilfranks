@@ -1,4 +1,4 @@
-### Hello! My name is Babanov Danila. 👋
+### Hello! My name is Daniil Franks 👋
 
 Software engineer having 11 years of experience in development, requirement engineering, and solution architect. Working as technical lead on large-scale projects. I will use my experience to provide the most feasible and custom-tailored solutions which best fit all of your business needs. I will make sure to go the extra mile to provide you the most effective solution.
 
@@ -28,4 +28,4 @@ Software engineer having 11 years of experience in development, requirement engi
 
 Feel free to tap me on Facebook or Instagram.
 
-   [VK](https://vk.com/danilababanov "website") | [Website](https://danilababanov.ru "website") | [Website](https://oocc.ru "website") | [Instagram](http://instagram.com/danilababanov "instagram") | [Facebook](https://www.facebook.com/danilababanov/ "fb") | [Linkedin](https://www.linkedin.com/in/danilababanov/ "linkedin")
+   [VK](https://vk.com/daniilfranks "website") | [Website](https://daniilfranks.ru "website") | [Instagram](http://instagram.com/daniilfranks "instagram") | [Facebook](https://www.facebook.com/daniilfranxx/ "fb") | [Linkedin](https://www.linkedin.com/in/daniilfranks/ "linkedin")
