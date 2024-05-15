@@ -1,31 +1,31 @@
 ### Hello! My name is Daniil Franks 👋
 
-Software engineer having 11 years of experience in development, requirement engineering, and solution architect. Working as technical lead on large-scale projects. I will use my experience to provide the most feasible and custom-tailored solutions which best fit all of your business needs. I will make sure to go the extra mile to provide you the most effective solution.
+I am a software engineer with 11 years of experience in development, requirements engineering, and solution architecture. As a technical lead on large-scale projects, I leverage my expertise to deliver custom-tailored solutions that best meet your business needs. I am committed to going the extra mile to provide the most effective solutions.
 
-- 🔭 I’m currently working on React & React Native & **Ruby on Rails**
-- 👯 I’m looking to collaborate on **Ruby on Rails**  
-- 🤔 I’m looking for help with Ruby on Rails+PostgreSQL+Redis+MongoDB=>Docker
+- 🔭 Currently working with React, React Native, and Ruby on Rails
+- 👯 Looking to collaborate on Ruby on Rails projects 
+- 🤔 Seeking assistance with Ruby on Rails, PostgreSQL, Redis, MongoDB, and Docker integration
 
-⚡ Languages/Tech
+⚡ Languages/Technologies
 
 - Ruby
 - Ruby on Rails
-- JS
-- Node.JS
+- JavaScript
+- Node.js
 - React
 - React Native
-- Databases: PostgresSQL, Redis, MongoDB
+- Databases: PostgreSQL, Redis, MongoDB
 
-👀 What I am working actively on 
+👀 Active Projects
 
-- 🌱 Develops mobile application and crm system in real estate
+- 🌱 Developing a mobile application and CRM system for the real estate sector
 
-💬 Ask me about
+💬 Feel free to ask me about
 
 - 🌱 Startups
 
 👇🏻 Get in touch:
 
-Feel free to tap me on Facebook or Instagram.
+Connect with me on Facebook or Instagram.
 
    [VK](https://vk.com/daniilfranks "website") | [Website](https://daniilfranks.ru "website") | [Instagram](http://instagram.com/daniilfranks "instagram") | [Facebook](https://www.facebook.com/daniilfranxx/ "fb") | [Linkedin](https://www.linkedin.com/in/daniilfranks/ "linkedin")
