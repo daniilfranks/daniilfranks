@@ -16,7 +16,7 @@ I am a software engineer with 11 years of experience in development, requirement
 - React Native
 - Databases: PostgreSQL, Redis, MongoDB
   
-[![My Skills](https://skillicons.dev/icons?i=ruby,js,nodejs,react,docker,postgres,redis,mongodb,nginx,rabbitmq,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,js,nodejs,react,docker,postgres,redis,mongodb,nginx,rabbitmq,figma&theme=dark)](https://daniilfranks.ru)
 
 👀 Active Projects
 
@@ -30,7 +30,7 @@ I am a software engineer with 11 years of experience in development, requirement
 
 Connect with me on:
 
-   [VK](https://vk.com/daniilfranks "website") | [Website](https://daniilfranks.ru "website") | [Instagram](http://instagram.com/daniilfranks "instagram") | [Facebook](https://www.facebook.com/daniilfranxx/ "fb") | [Linkedin](https://www.linkedin.com/in/daniilfranks/ "linkedin")
+   [VK](https://vk.com/daniilfranks "website") | [Website](https://daniilfranks.ru "website") | [Instagram](http://instagram.com/daniilfranks "instagram") | [Facebook](https://www.facebook.com/daniilfranxx/ "fb") | [Linkedin](https://www.linkedin.com/in/daniilfranks/ "linkedin") | [Telegram](https://t.me/daniilfranxx/ "telegram")
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=daniilfranks&theme=radical" />
