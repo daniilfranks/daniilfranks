@@ -15,6 +15,7 @@ I am a software engineer with 11 years of experience in development, requirement
 - React
 - React Native
 - Databases: PostgreSQL, Redis, MongoDB
+[![My Skills](https://skillicons.dev/icons?i=ruby,js,nodejs,react,docker,postgres,redis,mongodb,nginx,rabbitmq,figma&theme=dark)](https://skillicons.dev)
 
 👀 Active Projects
 
