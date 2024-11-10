@@ -30,6 +30,7 @@ Connect with me on:
 
    [VK](https://vk.com/daniilfranks "website") | [Website](https://daniilfranks.ru "website") | [Instagram](http://instagram.com/daniilfranks "instagram") | [Facebook](https://www.facebook.com/daniilfranxx/ "fb") | [Linkedin](https://www.linkedin.com/in/daniilfranks/ "linkedin")
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniilfranks&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniilfranks&layout=compact&theme=radical)
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniilfranks&show_icons=true&theme=radical)
+- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniilfranks&layout=compact&theme=radical)
+- ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=daniilfranks&theme=radical)
 
