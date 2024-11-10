@@ -26,6 +26,8 @@ I am a software engineer with 11 years of experience in development, requirement
 
 👇🏻 Get in touch:
 
-Connect with me on Facebook or Instagram.
+Connect with me on:
 
    [VK](https://vk.com/daniilfranks "website") | [Website](https://daniilfranks.ru "website") | [Instagram](http://instagram.com/daniilfranks "instagram") | [Facebook](https://www.facebook.com/daniilfranxx/ "fb") | [Linkedin](https://www.linkedin.com/in/daniilfranks/ "linkedin")
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daniilfranks)](https://github.com/anuraghazra/github-readme-stats)
