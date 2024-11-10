@@ -28,7 +28,7 @@ I am a software engineer with 11 years of experience in development, requirement
 
 👇🏻 Get in touch:
 
-Connect with me on:
+Connect with me:
 
    [VK](https://vk.com/daniilfranks "website") | [Website](https://daniilfranks.ru "website") | [Instagram](http://instagram.com/daniilfranks "instagram") | [Facebook](https://www.facebook.com/daniilfranxx/ "fb") | [Linkedin](https://www.linkedin.com/in/daniilfranks/ "linkedin") | [Telegram](https://t.me/daniilfranxx/ "telegram")
 
